@@ -1,9 +1,13 @@
 # June meetup at Philosophie
 
-_Agenda_: 
+__Speaker__: 
 
 "Code-ify your thinking with pytest" (Rit Li)
 
 Improve productivity and job satisfaction by writing automated tests. A different mindset to get started with and enjoy writing tests.
 
-Discussion about PyCon 2016
+
+__Discussion about PyCon 2016__
+
+
+__Sponsor__: [Philosophie](http://philosophie.is/) (venue and food)
